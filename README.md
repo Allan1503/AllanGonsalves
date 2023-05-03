@@ -2,8 +2,8 @@
 
 
 <div>
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=Allan1503&show_icons=true&theme=cobalt">
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan1503&theme=cobalt&layout=compact)](https://github.com/Allan1503/github-readme-stats">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Allan1503&show_icons=true&theme=cobalt">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan1503&theme=cobalt&layout=compact)](https://github.com/Allan1503/github-readme-stats">
 </div>
                                      
 <div style="display: inline_block"><br>
